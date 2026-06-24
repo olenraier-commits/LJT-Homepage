@@ -1,7 +1,7 @@
 ---
 title: "Junteng Liu"
 author_profile: true
-permalink: /about/
+permalink: /
 ---
 
 # Junteng Liu
